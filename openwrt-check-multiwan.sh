@@ -1,6 +1,6 @@
 #!/bin/sh
 
-# This script is inteneded for checking and switching between 2 WANs in openwrt.
+# This script is intended for checking and switching between 2 WANs in openwrt.
 # In this case we are switching between default wan and a second USB_WAN.
 # If USB_WAN (mobile usb tethering) is available the router should only use USB_WAN and disable the
 # other one.
